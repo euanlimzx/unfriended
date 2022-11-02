@@ -1,11 +1,8 @@
-# Sample Snack app
+#Unfine Dining
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+In the show One Week Love, they play a game called Unfine Dining (https://www.youtube.com/watch?v=MmzVrdrO9Z4)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+The game involves asking each member of a group to answer some really tough questions suggested by the card pile.
+I've always wanted to make a game similar to this, as I really enjoy "tough question" games similar to "We're Not Really Strangers".
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Built in less than a day and released the day after this episode dropped, here is Unfine Dining, a Webapp created with React Native
